@@ -11,7 +11,5 @@ value, err = larger_than_five(int(input()))
 
 if err != None:
     print(err)
-else:
-    print(value)
 
-
+print(value)
