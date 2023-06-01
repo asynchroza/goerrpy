@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: goerrpy
+Version: 1.0.3
+Summary: Decorator for simulating Golang's error handling in Python
+Home-page: https://github.com/asynchroza/goerrpy
+Author: Michael Bozhilov
+Author-email: michaelbozhilov@gmail.com
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+
 # goerrpy
 
 Decorator for simulating Go's error handling in Python
