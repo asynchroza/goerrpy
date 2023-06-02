@@ -1,8 +1,0 @@
-README.md
-setup.py
-goerrpy/__init__.py
-goerrpy/decorators.py
-goerrpy.egg-info/PKG-INFO
-goerrpy.egg-info/SOURCES.txt
-goerrpy.egg-info/dependency_links.txt
-goerrpy.egg-info/top_level.txt
